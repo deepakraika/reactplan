@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/deepakraika/reactplan.git/static/css/main.d9d69ef5.css",
+    "main.js": "/deepakraika/reactplan.git/static/js/main.a8868e25.js",
+    "static/js/787.2afbd57d.chunk.js": "/deepakraika/reactplan.git/static/js/787.2afbd57d.chunk.js",
+    "index.html": "/deepakraika/reactplan.git/index.html",
+    "main.d9d69ef5.css.map": "/deepakraika/reactplan.git/static/css/main.d9d69ef5.css.map",
+    "main.a8868e25.js.map": "/deepakraika/reactplan.git/static/js/main.a8868e25.js.map",
+    "787.2afbd57d.chunk.js.map": "/deepakraika/reactplan.git/static/js/787.2afbd57d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9d69ef5.css",
+    "static/js/main.a8868e25.js"
+  ]
+}
